@@ -1,6 +1,10 @@
 package main
 
-import "log"
+import (
+	"log"
+
+	"github.com/dhinojosac/GoMusic-backend/src/rest"
+)
 
 func main() {
 	log.Println("Main log....")
